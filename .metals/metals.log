@@ -1,0 +1,9 @@
+INFO  started: Metals version 0.8.0 in workspace '/Users/abdulhakeem/reactProjects/loanCalculator'
+INFO  time: initialize in 1.46s
+WARN  no build tool detected in workspace '/Users/abdulhakeem/reactProjects/loanCalculator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+Feb 01, 2020 1:35:52 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+INFO  shutting down Metals
+INFO  started: Metals version 0.8.0 in workspace '/Users/abdulhakeem/reactProjects/loanCalculator'
+INFO  time: initialize in 1.96s
+WARN  no build tool detected in workspace '/Users/abdulhakeem/reactProjects/loanCalculator'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
